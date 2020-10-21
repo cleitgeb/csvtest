@@ -14,6 +14,8 @@ fs.createReadStream('C:\\Users\\LEIT\\Desktop\\ARTIKELIMPORT4.csv')
 
 
             // console.log(t);
+           // newAr.push(t)
+            //t.size pusshts richtig...
             newAr.push(t.size);
 
         })
